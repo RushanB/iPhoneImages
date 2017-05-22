@@ -10,6 +10,8 @@
 
 @interface ViewController : UIViewController
 
+-(NSURL *)returnURL:(NSString *)string;
+
 
 @end
 
